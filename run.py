@@ -12,6 +12,7 @@ base_url = "https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/"
 
 
 def generate_sub_md(path, prefix='NLP'):
+    print("jjjjj")
     header_tmp = """
 # {}
 
